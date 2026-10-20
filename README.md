@@ -1,4 +1,4 @@
-# Playwright QA Testing Portfolio
+# QA Playwright Testing Portfolio
 
 ## About This Project
 This repository contains my hands-on practice with Playwright for software quality assurance and test automation.
